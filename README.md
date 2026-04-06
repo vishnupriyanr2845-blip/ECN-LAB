@@ -24,18 +24,41 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+
+
+
+
+
 <img width="537" height="689" alt="image" src="https://github.com/user-attachments/assets/e6b6bf0d-ea62-4c49-a880-e83751d8f3ba" />
 
 
 TABLE:
+
+
+
+
+
+
+
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/9cfe1419-c407-40e8-9bdc-c183f5bbe3c4" />
 
 
 THEORETICAL CALCULATION:
 
+
+
+
+
 <img width="377" height="771" alt="image" src="https://github.com/user-attachments/assets/87c79e25-8bf0-4812-b62b-f1a50671f282" />
 
 MARK SPLITUP:
+
+
+
+
+
+
 <img width="433" height="278" alt="image" src="https://github.com/user-attachments/assets/06a0c7df-a232-49c1-b7f7-f0dab3804376" />
 
 
